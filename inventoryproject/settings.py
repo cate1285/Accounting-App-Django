@@ -83,7 +83,7 @@ DATABASES = {
         'USER': 'dbadmin',
         'HOST': 'localhost',
         'PORT': 3306,
-        'PASSWORD': '12345',  # Your Password
+        'PASSWORD': '',  # Your Password
     }
 }
 
