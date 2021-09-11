@@ -2,6 +2,7 @@
 Proyecto para la incercion, manipulacion y visualizacion de informacion financiera. 
 
 Instalación
+
 1-Clona el repositorio  con el siguiente comando en git:
 
 git clone "https://github.com/cate1285/Accounting-App.git"
@@ -12,11 +13,11 @@ git clone "https://github.com/cate1285/Accounting-App.git"
 python manage.py createsuperuser
 con ese comando podras generar un usuario y contraseña.
 
-3- Ve a la ruta donde se encuentra el repo y ejecuta el siguiente comando:
+4- Ve a la ruta donde se encuentra el repo y ejecuta el siguiente comando:
 
 python manage.py runserver
 
-4- Ve a http://127.0.0.1:8000/ y disfruta de la app.
+5- Ve a http://127.0.0.1:8000/ y disfruta de la app.
 
 
 
