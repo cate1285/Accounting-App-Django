@@ -30,7 +30,8 @@ El proyecto es open-source bajo licencia MIT.
 Créditos
 Gracias, Espero disfruten del contenido.
 
-Accounting-App-Django
+
+# Accounting-App-Django
 
 Project for the insertion, manipulation and visualization of financial information.
 
