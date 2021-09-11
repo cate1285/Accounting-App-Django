@@ -12,7 +12,7 @@ git clone "https://github.com/cate1285/Accounting-App.git"
 
 python manage.py runserver
 
-3- Ve a http://127.0.0.1:8000/ y disfruta de la app.
+4- Ve a http://127.0.0.1:8000/ y disfruta de la app.
 
 
 
