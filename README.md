@@ -6,7 +6,9 @@ Instalación
 
 git clone "https://github.com/cate1285/Accounting-App.git"
 
-2- Ve a la ruta donde se encuentra el repo y ejecuta el siguiente comando:
+2- Modifica el archivo settings.py en la carpeta inventoryproject para conectarte a tu base de datos. 
+
+3- Ve a la ruta donde se encuentra el repo y ejecuta el siguiente comando:
 
 python manage.py runserver
 
